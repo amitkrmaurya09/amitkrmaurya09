@@ -1,8 +1,6 @@
 Hi 👋 My name is Amit kumar
 ===========================
 
-* 🌍  I'm based in India
-
 ### Skills
 
 
