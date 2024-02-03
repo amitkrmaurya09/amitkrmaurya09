@@ -1,4 +1,4 @@
-Hi 👋 My name is Amit kumar
+Amit kumar
 ===========================
 
 * 🌍  I'm based in India
